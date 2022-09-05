@@ -1,6 +1,6 @@
 # Audio Troubleshooter Find and Fix Problems
 
-[![Audio Troubleshooter Find and Fix Problems](red.png)](https://github.com/techcultt/audio.troubleshooter.find.and.fix.problems)
+[![Audio Troubleshooter Find and Fix Problems](red.png)](https://icncomputer.com/audio-troubleshooter-find-and-fix-problems/)
 
 You may hear no sound or some intermittent sound, when you have audio problems. There could be many reasons why you face sound or audio problems
 
